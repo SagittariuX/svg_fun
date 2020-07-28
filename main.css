@@ -1,21 +1,30 @@
-* {
+
+
+div{
+    display: block;
     margin-top: 50px;
+}
+
+svg{
+    height: 100%;
 }
 
 body{
     text-align: center;
 }
 
-#bubble0, #bubble1{
+#bubble0, #bubble1, #capsuleBubble0, #capsuleBubble1, #capsuleBubble2 {
     animation-name: spinOnCenter;
     animation-duration: 2s;
     animation-iteration-count: infinite;
     transform-origin: center;
     transform-box: fill-box;
-}
-#bubble1{
-    animation-name: bobUpAndDown;
     animation-timing-function: ease;
+}
+#bubble1, #capsuleBubble0, #capsuleBubble1, #capsuleBubble2 {
+    animation-name: bobUpAndDown;
+    animation-duration: 10s;
+    animation-timing-function: linear;
 }
 
 @keyframes bobUpAndDown{
