@@ -1,0 +1,35 @@
+* {
+    margin-top: 50px;
+}
+
+
+body{
+    text-align: center;
+}
+
+#bubble0, #bubble1{
+    animation-name: spinOnCenter;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+#bubble1{
+    animation-name: bobUpAndDown;
+    animation-timing-function: ease;
+}
+
+@keyframes bobUpAndDown{
+    0% {transform: translateY(0)}
+    50%{transform: translateY(-10px)}
+    100%{transform: translateY(0)}
+}
+
+@keyframes spinOnCenter{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
