@@ -1,5 +1,4 @@
 
-
 div{
     display: block;
     margin-top: 50px;
@@ -10,6 +9,8 @@ svg{
 }
 
 body{
+    margin: 0;
+    padding: 0;
     text-align: center;
 }
 
@@ -18,6 +19,7 @@ body{
     animation-duration: 2s;
     animation-iteration-count: infinite;
     transform-origin: center;
+    -webkit-transform-origin: center;
     transform-box: fill-box;
     animation-timing-function: ease;
 }
@@ -54,8 +56,6 @@ body{
 }
 
 
-
-
 @keyframes bobUpAndReturn{
     0% {transform: translateY(0)}
     50%{transform: translateY(-10px)}
@@ -77,4 +77,25 @@ body{
     to{
         transform: rotate(360deg);
     }
+}
+
+#wave0{
+    animation-name: wave0animation;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    transform-box: fill-box;
+    
+}
+
+@keyframes wave0animation{
+    /* wave0 */
+    0%{d:path("m-81.53 197.23s128.12-109.48 125.01-38.048 163.84 73.766 177.81 49.695-60.565-168.5 96.284-48.142c156.85 120.35 162.28 37.271 162.28 37.271s26.4-125.01 33.389-6.2118c6.9883 118.8 8.5413 121.13 8.5413 121.13l-595.56-2.3294z")}
+    /* wave1 */
+    25%{d:path("M-44.259 158.4s35.718-71.436 142.1-18.636c106.38 52.801-3.1059 151.41 217.41 76.095 220.52-75.319 243.04-9.3178 243.04-9.3178l6.9883 159.18-621.96-8.5413z")}
+    /* wave2 */
+    67%{d: path("M-72.989 159.95c150.64 58.236 6.9883 118.8 238.38 13.2 231.39-105.6 76.872-18.636 262.45 34.942s159.95 62.895 159.95 62.895l-3.1059 93.954-641.37-7.7648z")}
+    /* wave0 */
+    100%{d:path("m-81.53 197.23s128.12-109.48 125.01-38.048 163.84 73.766 177.81 49.695-60.565-168.5 96.284-48.142c156.85 120.35 162.28 37.271 162.28 37.271s26.4-125.01 33.389-6.2118c6.9883 118.8 8.5413 121.13 8.5413 121.13l-595.56-2.3294z")}
 }
