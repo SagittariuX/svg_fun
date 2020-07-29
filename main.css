@@ -13,7 +13,7 @@ body{
     text-align: center;
 }
 
-#bubble0, #bubble1, #capsuleBubble0, #capsuleBubble1, #capsuleBubble2 {
+#bubble0, #bubble1, #capsuleBubble0, #capsuleBubble1, #capsuleBubble2, #loadingSpinner{
     animation-name: spinOnCenter;
     animation-duration: 2s;
     animation-iteration-count: infinite;
@@ -22,14 +22,51 @@ body{
     animation-timing-function: ease;
 }
 #bubble1, #capsuleBubble0, #capsuleBubble1, #capsuleBubble2 {
-    animation-name: bobUpAndDown;
+    animation-name: bobUpAndReturn;
     animation-duration: 10s;
     animation-timing-function: linear;
 }
 
-@keyframes bobUpAndDown{
+#loadingSpinner{
+    animation-duration: 3s;
+    animation-timing-function: linear;
+}
+
+.loadingWave{
+    animation-name: bobUpAndDown;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+.loadingWave:nth-child(2){
+    animation-delay: .4s;
+}
+.loadingWave:nth-child(3){
+    animation-delay: .8s;
+}
+.loadingWave:nth-child(4){
+    animation-delay: 1.2s;
+}
+.loadingWave:nth-child(5){
+    animation-delay: 1.6s;
+}
+
+
+
+
+@keyframes bobUpAndReturn{
     0% {transform: translateY(0)}
     50%{transform: translateY(-10px)}
+    100%{transform: translateY(0)}
+}
+
+@keyframes bobUpAndDown{
+    0%{transform: translateY(0)}
+    25%{transform: translateY(-5px)}
+    50%{transform: translateY(0)}
+    75%{transform: translateY(5px)}
     100%{transform: translateY(0)}
 }
 

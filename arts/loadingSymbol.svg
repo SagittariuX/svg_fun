@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="142.09586mm"
+   height="142.09569mm"
+   viewBox="0 0 142.09586 142.09569"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="loadingSymbol.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3269555"
+     inkscape:cx="161.84517"
+     inkscape:cy="203.46613"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-37.270977,-78.424598)">
+    <g
+       inkscape:label="g49"
+       id="g49">
+      <path
+         transform="matrix(0.26458333,0,0,0.26458333,37.270977,78.424598)"
+         d="M 246.51758,0.90429688 A 268.52757,268.52757 0 0 0 94.853516,63.724609 L 119.1875,88.058594 C 155.22094,58.527219 200.12628,39.70978 246.51758,35.199219 Z m 44.01953,0 V 35.310547 c 1.73053,0.169802 3.45931,0.351684 5.18555,0.560547 C 340.41846,40.795776 383.30876,59.393807 417.92773,88 L 442.20117,63.726562 A 268.52757,268.52757 0 0 0 290.53711,0.90429688 Z M 63.726562,94.853516 A 268.52757,268.52757 0 0 0 0.90429688,246.51758 H 35.279297 c 3.829972,-39.46076 17.553869,-78.00224 40.113281,-110.63867 3.920918,-5.804 8.132734,-11.39213 12.582031,-16.77735 z m 409.603518,0 -24.24024,24.240234 c 29.79814,35.90811 48.30572,80.97532 52.69532,127.42383 h 34.36718 A 268.52757,268.52757 0 0 0 473.33008,94.853516 Z M 0.90429688,290.53711 A 268.52757,268.52757 0 0 0 63.726562,442.20117 L 88.025391,417.90234 C 66.365076,391.61573 50.336156,360.65807 41.78125,327.67578 38.511091,315.49603 36.315395,303.06319 35.154297,290.53711 Z m 500.95703312,0 c -4.10335,43.27067 -20.51642,85.34448 -46.875,119.93164 -1.90869,2.54369 -3.87517,5.04167 -5.89063,7.49805 l 24.23438,24.23437 a 268.52757,268.52757 0 0 0 62.82031,-151.66406 z m -83.88672,158.56445 c -27.29128,22.50077 -59.72817,38.78955 -94.11914,47.10742 -10.95401,2.71813 -22.09866,4.58891 -33.31836,5.63672 v 34.30469 a 268.52757,268.52757 0 0 0 151.66406,-62.82227 z m -298.89649,0.004 -24.224604,24.22461 a 268.52757,268.52757 0 0 0 151.664064,62.82031 v -34.375 c -33.65133,-3.21225 -66.63076,-13.61158 -95.83594,-30.67773 -11.16423,-6.40164 -21.72407,-13.78858 -31.60352,-21.99219 z"
+         style="opacity:1;fill:#ff6600;fill-opacity:0.992157;stroke-width:3.21027;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.988235"
+         id="loadingSpinner" />
+    </g>
+    <path
+       id="path15"
+       style="opacity:1;fill:#ff6600;fill-opacity:0.992157;stroke-width:0.849385;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.988235"
+       d="m 105.6056,97.619629 c -7.586643,0.42801 -15.232902,2.638671 -21.92497,6.239071 -3.175359,1.71203 -6.144127,3.70806 -8.860918,5.98437 -3.136415,2.59388 -6.019847,5.69539 -8.41332,8.97187 -5.658365,7.76361 -9.176867,17.2599 -9.863281,26.85743 -0.709975,9.50439 1.246733,19.32229 5.758102,27.80776 2.516658,4.79014 5.756281,9.18268 9.563457,12.95675 4.076304,4.04269 8.675867,7.30726 13.840551,9.7765 5.35064,2.56016 11.032219,4.17256 16.937489,4.84766 7.59955,0.85154 15.32893,0.007 22.56562,-2.50974 11.07212,-3.79111 20.90522,-11.44067 27.06427,-21.46233 6.0776,-9.76529 8.90699,-21.43969 7.68479,-32.83791 -0.45753,-4.46044 -1.50784,-8.83019 -3.08537,-13.07032 -3.70325,-9.97643 -10.67766,-18.92838 -19.66432,-24.82288 -6.25537,-4.18635 -13.46416,-7.014994 -20.85033,-8.171785 -3.56167,-0.548524 -7.14666,-0.727451 -10.75177,-0.566446 z" />
+    <rect
+       style="opacity:0.571;fill:#f9f9f9;fill-opacity:0.992157;stroke-width:0.817941;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.988235"
+       id="loadingWave0"
+       width="8.9295197"
+       height="31.447437"
+       x="64.447784"
+       y="133.74823"
+       ry="4.1872168"
+       rx="4.4647598" />
+    <rect
+       rx="4.4647598"
+       ry="4.3866081"
+       y="133.74823"
+       x="84.150963"
+       height="31.447437"
+       width="8.9295197"
+       id="loadingWave1"
+       style="opacity:0.571;fill:#f9f9f9;fill-opacity:0.992157;stroke-width:0.817941;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.988235" />
+    <rect
+       style="opacity:0.571;fill:#f9f9f9;fill-opacity:0.992157;stroke-width:0.817941;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.988235"
+       id="loadingWave2"
+       width="8.9295197"
+       height="31.447437"
+       x="103.85415"
+       y="133.74823"
+       ry="4.2869124"
+       rx="4.4647598" />
+    <rect
+       rx="4.4647598"
+       ry="4.7853904"
+       y="133.74823"
+       x="123.55733"
+       height="31.447437"
+       width="8.9295197"
+       id="loadingWave3"
+       style="opacity:0.571;fill:#f9f9f9;fill-opacity:0.992157;stroke-width:0.817941;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.988235" />
+    <rect
+       style="opacity:0.571;fill:#f9f9f9;fill-opacity:0.992157;stroke-width:0.817941;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.988235"
+       id="loadingWave4"
+       width="8.9295197"
+       height="31.447437"
+       x="143.2605"
+       y="133.74823"
+       ry="3.9878294"
+       rx="4.4647598" />
+  </g>
+</svg>
